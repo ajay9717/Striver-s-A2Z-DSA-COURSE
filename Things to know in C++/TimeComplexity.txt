@@ -1,0 +1,22 @@
+Time Complexity :- The rate at which the time taken increases with respect to the input size.
+Big Oh notation :-
+O(Time taken)
+-> Worst Case Scenario.
+-> Avoid Constants.
+-> Avoid lower Values.
+-> Upper bound.
+
+
+Big theta notation:-
+-> Best Case Complexity.
+-> Lower bound.
+
+Big Omega notation:-
+-> Average case Complexity
+-> Average bound or middle bound.
+
+
+Space Complexity:-
+-> Memory Space.
+-> Big Oh notation.
+-> Auxiliary Space(Space that you take to solve the problem) + Input Space(The space that you take to store the input).
