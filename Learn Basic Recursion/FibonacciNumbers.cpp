@@ -14,5 +14,4 @@ int main()
     cout << "Enter the index of which fibonacci number you want";
     cin >> fib;
     cout << fibonacci(fib);
-
 }
