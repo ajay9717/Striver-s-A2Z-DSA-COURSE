@@ -1,4 +1,5 @@
 //Hashing also called as pre storing or fetching
+//Below code is for number hashing
 #include <bits/stdc++.h>
 using namespace std;
 
